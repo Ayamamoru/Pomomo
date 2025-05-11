@@ -4,6 +4,7 @@
   "description": "A cute pomodoro widget app to help you study while chilling with your pet or avatar",
   "main": "index.js",
   "scripts": {
+    "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
