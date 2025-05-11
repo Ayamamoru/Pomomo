@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/Ayamamoru/Pomomo/issues"
   },
-  "homepage": "https://github.com/Ayamamoru/Pomomo#readme"
+  "homepage": "https://github.com/Ayamamoru/Pomomo#readme",
+  "devDependencies": {
+    "electron": "^36.2.0"
+  }
 }
