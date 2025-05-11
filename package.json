@@ -1,0 +1,28 @@
+{
+  "name": "pomomo",
+  "version": "1.0.0",
+  "description": "A cute pomodoro widget app to help you study while chilling with your pet or avatar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayamamoru/Pomomo.git"
+  },
+  "keywords": [
+    "pomodoro",
+    "widget",
+    "cute",
+    "desktop",
+    "game",
+    "study",
+    "fun"
+  ],
+  "author": "Selina Yu Ting Tung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ayamamoru/Pomomo/issues"
+  },
+  "homepage": "https://github.com/Ayamamoru/Pomomo#readme"
+}
